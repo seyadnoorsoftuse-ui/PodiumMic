@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Podium Mic</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done ✓</string>
+    <string name="auto_scroll">▶ Auto Scroll</string>
+    <string name="stop_scroll">⏸ Stop Scroll</string>
+    <string name="notes_hint">உங்கள் பேச்சு குறிப்புகளை இங்கே எழுதுங்கள்…</string>
+    <string name="sample_notes">வணக்கம்!\n\nஇங்கே உங்கள் மேடைப் பேச்சு குறிப்புகளை சேமிக்கலாம்.\n\n• Edit பட்டனை அழுத்தி notes-ஐ மாற்றுங்கள்\n• A+ / A- எழுத்து அளவு\n• Auto Scroll = teleprompter\n• கீழே Mic ON செய்தால் Bluetooth speaker-ல் உங்கள் குரல் கேட்கும்\n\nதிரை தானாக அணையாது (Keep Screen On).</string>
+    <string name="mic_start">🎤 Mic ON</string>
+    <string name="mic_stop">⏹ Mic OFF</string>
+    <string name="mic_off">Mic: Off</string>
+    <string name="mic_live">Mic LIVE → Bluetooth output</string>
+    <string name="mic_channel">Mic Streaming</string>
+    <string name="gain_default">Gain: 2.0x</string>
+    <string name="gain_fmt">Gain: %.1fx</string>
+    <string name="perm_needed">Microphone permission தேவை</string>
+    <string name="connect_bt_first">Bluetooth speaker/amplifier connect ஆகவில்லை — phone speaker-ல் ஒலிக்கும் (echo வரலாம்!)</string>
+</resources>
